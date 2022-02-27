@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Judge Jenkin's plea delivered in to the Earle of Manchester, and the Speaker of the House of Commons sitting in the Chancery at Westminster. Which was read by their command in open court, the 14. of February 1647. And there avowed, / by David Ienkins, prisoner in Newgate.</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87532</idno>
+            <idno type="STC">Wing J598</idno>
+            <idno type="STC">Thomason E427_12</idno>
+            <idno type="STC">ESTC R204228</idno>
+            <idno type="EEBO-CITATION">99863884</idno>
+            <idno type="PROQUEST">99863884</idno>
+            <idno type="VID">161463</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161463)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E427[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Judge Jenkin's plea delivered in to the Earle of Manchester, and the Speaker of the House of Commons sitting in the Chancery at Westminster. Which was read by their command in open court, the 14. of February 1647. And there avowed, / by David Ienkins, prisoner in Newgate.</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jenkins, David, 1582-1663 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161463:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 69 -->
+            <p>
+               <hi>Judge Jenkin's</hi> PLEA</p>
+            <p>Delivered in to the EARLE of <hi>Mancheſter,</hi> and the Speaker of the Houſe of Commons ſitting in the Chancery at <hi>Weſtminſter.</hi>
+            </p>
+            <p>Which was <hi>Read by their Command</hi> in open Court, the 14. of <hi>February</hi> 1647.</p>
+            <p>And there avowed,</p>
+            <p>By DAVID IENKINS, Priſoner in <hi>Newgate.</hi>
+            </p>
+            <p>
+               <date>
+                  <add>Feb. 16</add>
+               </date> Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161463:2"/>
+            <!-- PDF PAGE 70 -->
+            <pb n="3" facs="tcp:161463:2"/>
+            <!-- PDF PAGE 70 -->
+            <head>
+               <hi>Judge Jenkins</hi> PLEA, DELIVERED In to the EARLE of <hi>Mancheſter,</hi> and the Speaker of the Houſe of Commons, ſitting in the Chancery at <hi>Weſt<g ref="char:EOLhyphen"/>minſter.</hi>
+            </head>
+            <head type="sub">Which was <hi>read by their command</hi> in open Court the 14. of <hi>February,</hi> 1647. and there avowed,</head>
+            <byline>By <hi>David Ienkins,</hi> Priſoner in Newgate.</byline>
+            <p>
+               <seg rend="decorInit">I</seg> Have beene required to appeale in Chancery the 12th. of this inſtant February before Commiſſioners appoynted by the two Houſes for the keeping of their great Seale, and managing the affaires of the Chan<g ref="char:EOLhyphen"/>cery.</p>
+            <p>
+               <pb n="4" facs="tcp:161463:3"/>
+               <!-- PDF PAGE 71 -->
+I cannot, nor ought, nor will ſubmit to this power; I am a Judge ſworne to the Lawes. The Law is: <hi>Firſt,
+<note place="margin">4<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. pars inſtit. fol. 79. 8. Ed. 4. fol. 5. 9. Ed. 4. fol. 15.</note> that this Court is coram Rege in Cancellaria:</hi> Se<g ref="char:EOLhyphen"/>condly, the Chancellor or Keeper of the great Seale is by delivery of the great Seale to him by the King, and by taking of an Oath:</p>
+            <p>The Oath followeth in theſe words.</p>
+            <q>
+               <p n="1">1. <hi>Well and truely to ſerve our Soveraigne Lord the King,
+<note place="margin">4<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. pars inſtit. fol. 88. 10. R. 2. rot. Parl. num. 8.</note> and his people in that Office.</hi>
+               </p>
+               <p n="2">2. <hi>To doe right to all manner of people poore and rich, after the Lawes and uſages of the Realme.</hi>
+               </p>
+               <p n="3">3. <hi>Truely to counſell the King, and his Counſell to conceale and keepe.</hi>
+               </p>
+               <p n="4">4. <hi>Not to ſuffer the hurt or diſheriting of the King, or that the Rights of the Crowne he decreaſed by any meanes as far as he may let it.</hi>
+               </p>
+               <p n="5">5. <hi>If he may not let it, he ſhall make it clearely and expreſly to be knowne to the King with his true advice and counſell.</hi>
+               </p>
+               <p n="6">6. <hi>And that he ſhall doe and purchaſe the Kings proffit in all that he reaſonably may, as God him helpe, and the contents of Gods booke.</hi>
+               </p>
+            </q>
+            <p>The ſaid Commiſſioners among others have im<g ref="char:EOLhyphen"/>priſoned their King,
+<note place="margin">Declar. 17. Jannua. 1647.</note> have declared to the Kingdome
+<pb n="5" facs="tcp:161463:3"/>
+               <!-- PDF PAGE 71 -->that they will make no addreſſes or applications to him, nor receive any from him.</p>
+            <p>Have counterfeited a new great Seale,
+<note place="margin">Articuli ſup. chartas chap. 5.</note> and after deſtroyed the true old great Seale which belonged by the Law to the Kings cuſtody.</p>
+            <p>Theſe Commiſſioners have had no Seale delivered to them by his Majeſty, have taken no ſuch Oath, or full ill kept it; and for theſe evident reaſons grounded upon the Fundamentall Lawes of this Land, theſe Commiſſioners have neither Court, Seale, or Commiſſion, and therefore I ought not againſt the Lawes, againſt my knowledge, and againſt my conſcience ſubmit to their power.</p>
+            <p>To affirme that they maintaine the Kings Power and Authority in relation to his Lawes (as they often doe) and reſtraine on<g ref="char:EOLhyphen"/>ly his Perſon, is ſtrange.</p>
+            <p>They muſt be remembred that the Houſe of Commons this Parliament gave in charge to Mr.
+<note place="margin">Mr. Solicirot. Pag. 27.</note> Solicitor upon the proſecution of the Bill of attainder againſt the Earle of <hi>Strafford,</hi>
+               <pb n="6" facs="tcp:161463:4"/>
+               <!-- PDF PAGE 72 -->to declare the Law to be, <hi>that Machination of war againſt the Lawes or Kingdome, is againſt the King, they cannot be ſevered.</hi>
+            </p>
+            <p>Mr. <hi>Pym</hi> had in charge likewiſe upon the ſame proſecution to declare.
+<note place="margin">Mr. Pym. Pa. 16.</note> 
+               <hi>That the King and his people are obliged one to another in the neareſt relations, he is a Father, and the child in law is called</hi> pars patris, <hi>he is the Husband of the Common wealth, they have the ſame intereſts, they are inſeperable in their condition be it good or evill; he is the head, they are the body, there is ſuch an incorporation as cannot be diſſolved without the deſtruction of both.</hi>
+               <note place="margin">20. H. 7. fol. 7. 8. H. 7. fol. 12. 1. Ed. 5. fol. 3. 4. Ed. 4. fol. 25. 5. Ed. 4 fol. 29.</note> This agrees with our lawes, and the law of this Land: In that argument of Mr. Sollicitour, and diſ<g ref="char:EOLhyphen"/>courſe of Mr <hi>Pym</hi> directed by the Houſe of Commons are contained the true rights, li<g ref="char:EOLhyphen"/>berties and Lawes of the people deduced from our Anceſtors in all ages, and wherein there is no line or word but is agreable to the Lawes, and is a neceſſary and uſefull booke to be peruſed, and followed by all; which booke was publiſhed by Order of the Houſe of Commons. If the doctrine of that book had been followed, wee had not been ſo mi<g ref="char:EOLhyphen"/>ſerable
+<pb n="7" facs="tcp:161463:4"/>
+               <!-- PDF PAGE 72 -->as wee are; neither had theſe great evills enſued, for the which the Land mournes.</p>
+            <p>In this moneth of February 6 yeares now paſt,
+<note place="margin">Collect. of Ordinances, 1a. pars. fol. 66.67.81.</note> the only difference betweene his Majeſty and the prevai<g ref="char:EOLhyphen"/>ling party in both Houſes was touching the power of the <hi>Militia,</hi> which in plaine Engliſh is power over Sea and Land: this was the Sole quarrell: the King and his progenitors have had it in all times, the Lawes have fixed it upon them, they have uſed it for the weale of the people: none of the Subjects ever had it, or claimed it; the Lawes deny it them; for the time they have had it, our preſſures have beene miſerable.</p>
+            <p>His Majeſty hath a numerous iſſue, and ſo hath his Father; many great perſons of England, and Scotland are of the blood Royall, and all the Kings of Chriſtendome are of the ſame blood, ſo long as the Lawes laſt, or any of the ſaid perſons, or their deſcendants be liveing, this people ſhall have nei<g ref="char:EOLhyphen"/>ther peace nor profit; but all the confuſions that are imaginable will atend them.</p>
+            <p>And therefore (at length) be good to your ſelves, reſtore our King, receive from him an Act of obli<g ref="char:EOLhyphen"/>vion, a generall pardon, aſſurance for the arreares of the Souldiery, and meet ſatisfaction to tender Con<g ref="char:EOLhyphen"/>ſciences.</p>
+            <closer>
+               <dateline>
+                  <date>12. February, 1647.</date>
+               </dateline>
+               <signed>David Ienkins, Priſoner in Newgate.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
